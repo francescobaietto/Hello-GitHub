@@ -1,4 +1,4 @@
-text using Markdown syntax
+#text using Markdown syntax
  =======
  
  Sub-heading
