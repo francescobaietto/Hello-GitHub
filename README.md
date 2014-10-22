@@ -18,8 +18,7 @@ Not work this wiki mark
  =======
 
 
-But
-Headers
+But work with headers made with syntax:
 
 ```
 # This is an <h1> tag
