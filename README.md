@@ -1,34 +1,29 @@
-#text using Markdown syntax
+# Markdown syntax
+
+Some difference form Wikipedia
+http://en.wikipedia.org/wiki/Markdown
+
+and GitHub
+https://guides.github.com/features/mastering-markdown/
+
+And also reference:
+https://help.github.com/articles/github-flavored-markdown
+
+
+
+## Example 1: Headers
+
+
+Not work this wiki mark
  =======
- 
- Sub-heading
- -----------
- 
- ### Another deeper heading
- 
- Paragraphs are separated
- by a blank line.
- 
- Let 2 spaces at the end of a line to do a  
- line break
- 
- Text attributes *italic*,
- **bold**, `monospace`,~~monospace~~, `monospace` .
- 
- A [link](http://example.com).
- <<<   No space between ] and (  >>>
- 
- Shopping list:
- 
-   * apples
-   * oranges
-   * pears
- 
- Numbered list:
- 
-   1. apples
-   2. oranges
-   3. pears
- 
- The rain---not the reign---in
- Spain.
+
+
+But
+Headers
+
+```
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+```
+
